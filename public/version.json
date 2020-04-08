@@ -1,0 +1,12 @@
+{
+    "status": 1,
+    "message": "success",
+    "data": {
+        "name": "版本更新",
+        "version_name": "1.0.0",
+        "force_update": 1,
+        "url": "https://fir.im/dj6a",
+        "description": "初始版本",
+		"debug":1
+    }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="94b2d56e-f2ca-4ff9-9e5d-d087bd082fca" name="47.106.70.234" url="http://47.106.70.234">
+        <fileTransfer host="47.106.70.234" port="22" rootFolder="/usr/local/homeroot/zhiyin" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
